@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Scrapy specific
+.scrapy/
+*.log
+scrapy_log.txt
+
+# Databases
+# *.db  (removed to allow tracking db)
+# bmw_cars.db (removed to allow tracking db)
+
+# Other temp files
+.vscode/
+cookies.txt
+*.json
